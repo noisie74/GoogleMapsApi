@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/sf"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="San Francisco" />
+        <item
+            android:id="@+id/nyc"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="New York" />
+
+    </group>
+
+
+</menu>
